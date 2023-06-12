@@ -1,0 +1,6 @@
+# Packages referenced by memocast
+# Maybe should be pinned, but probably close enough
+requests
+pytest
+pytest-lazy-fixture
+bs4
